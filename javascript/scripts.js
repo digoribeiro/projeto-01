@@ -1,3 +1,2 @@
 /** @format */
-
-alert('Olá mundo! Resolvendo conflito');
+alert('Olá mundo!');
